@@ -7,7 +7,7 @@ clc, clear % clear
 
 n = 10; % number of terms
 series = 1 : n; % array of terms
-fractions = 1 ./ series; % array of fractions with a negative exponent for reciprocal
+fractions = series .^ -1; % array of fractions with a negative exponent for reciprocal
 answer = sum(fractions); % add them up
 
 fprintf('Sum of geometric series till %d terms is %d\n', n, answer) % print
