@@ -18,3 +18,6 @@ B2 = [
   linspace(0.3, 0.6, 4), linspace(1.2, 1.6, 3)
   linspace(9, 3, 7)
   ];
+
+disp(B1)
+disp(B2)
