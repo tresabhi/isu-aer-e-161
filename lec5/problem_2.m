@@ -1,5 +1,5 @@
 %{
-  Abhigyaan Deep, AER E 161, Lecture 4 Problem 2
+  Abhigyaan Deep, AER E 161, Lecture 5 Problem 2
   Purpose:
   - Read data file
   - Graph Californian and Floridian daily temperatures since Jan 1, 2010
