@@ -1,4 +1,13 @@
 {
   "cSpell.enableFiletypes": ["matlab"],
-  "cSpell.words": ["Abhigyaan", "disp", "haha", "oopsies", "sprintf"]
+  "cSpell.words": [
+    "Abhigyaan",
+    "disp",
+    "fprintf",
+    "haha",
+    "oopsies",
+    "sprintf",
+    "weboptions",
+    "webread"
+  ]
 }
