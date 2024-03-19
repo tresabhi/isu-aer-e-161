@@ -8,9 +8,12 @@
     "fopen",
     "fprintf",
     "haha",
+    "lsqfit",
     "oopsies",
     "sprintf",
     "weboptions",
-    "webread"
+    "webread",
+    "xlabel",
+    "ylabel"
   ]
 }
