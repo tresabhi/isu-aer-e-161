@@ -3,7 +3,7 @@
   Purpose: use Cramer's rule to check against manual solution
 %}
 
-clear, clc
+% clear, clc
 
 % problem 1
 [p1_x1, p1_x2, p1_x3] = problem_5_cramer([3, 2, -1; 2, -3, 2; 5, 1, 7], [5,-4,8]);
